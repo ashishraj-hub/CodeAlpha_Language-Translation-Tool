@@ -75,5 +75,6 @@ Contributions are welcome!
 ## 📧 Contact
 **Developer: Ashish Raj**
 
-GitHub: ashishraj-hub
-LinkedIn: linkedin.com/in/ashish-raj-ashishraj/
+GitHub: [ashishraj-hub](https://github.com/ashishraj-hub)
+
+LinkedIn: [linkedin.com/in/ashish-raj-ashishraj/](https://www.linkedin.com/in/ashish-raj-ashishraj/)
