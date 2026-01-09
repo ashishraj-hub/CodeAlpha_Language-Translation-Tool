@@ -42,6 +42,9 @@ A professional Python application designed to translate text between multiple la
   ```bash
   python Language_Translator.py
   ```
+
+---
+
 ## 📂 Project Structure
 
 CodeAlpha_Language-Translation-Tool/
@@ -49,6 +52,8 @@ CodeAlpha_Language-Translation-Tool/
 ├── Language_Translator.py   # Main application script
 ├── README.md                # Documentation
 └── requirements.txt         # Dependencies (optional)
+
+---
 
 ## 🎯 Usage
 
@@ -62,8 +67,12 @@ CodeAlpha_Language-Translation-Tool/
 
 5.Use Copy or Speak buttons for extra functionality
 
+---
+
 ## 📜 License
 Licensed under the MIT License. You are free to use, modify, and distribute with attribution.
+
+---
 
 ## 🤝 Contributing
 Contributions are welcome!
@@ -71,6 +80,14 @@ Contributions are welcome!
     Fork the repo
     Create a feature branch
     Submit a pull request
+
+---
+
+## 🙌 Acknowledgements
+- CodeAlpha for project inspiration.
+- Python community for libraries and resources.
+
+---
 
 ## 📧 Contact
 **Developer: Ashish Raj**
