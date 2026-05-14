@@ -46,13 +46,13 @@ A professional Python application designed to translate text between multiple la
 ---
 
 ## 📂 Project Structure
-
+```
 CodeAlpha_Language-Translation-Tool/
 │
 ├── Language_Translator.py   # Main application script
 ├── README.md                # Documentation
 └── requirements.txt         # Dependencies (optional)
-
+```
 ---
 
 ## 🎯 Usage
@@ -77,9 +77,9 @@ Licensed under the MIT License. You are free to use, modify, and distribute with
 ## 🤝 Contributing
 Contributions are welcome!
     
-    Fork the repo
-    Create a feature branch
-    Submit a pull request
+- Fork the repo
+- Create a feature branch
+- Submit a pull request
 
 ---
 
@@ -89,9 +89,28 @@ Contributions are welcome!
 
 ---
 
-## 📧 Contact
-**Developer: Ashish Raj**
+## 💻 Developer
 
-GitHub: [ashishraj-hub](https://github.com/ashishraj-hub)
+**Ashish Raj**
 
-LinkedIn: [linkedin.com/in/ashish-raj-ashishraj/](https://www.linkedin.com/in/ashish-raj-ashishraj/)
+---
+
+## 🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
