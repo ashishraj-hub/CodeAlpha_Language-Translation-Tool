@@ -51,7 +51,6 @@ CodeAlpha_Language-Translation-Tool/
 │
 ├── Language_Translator.py   # Main application script
 ├── README.md                # Documentation
-└── requirements.txt         # Dependencies (optional)
 ```
 ---
 
